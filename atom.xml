@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-23T12:06:21.680Z</updated>
+  <updated>2018-05-07T12:09:42.501Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,20 +17,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2018/05/31/New%20Document/"/>
-    <id>http://yoursite.com/2018/05/31/New Document/</id>
-    <published>2018-05-30T16:23:20.016Z</published>
-    <updated>2018-05-23T12:06:21.680Z</updated>
+    <title>搭博客日记</title>
+    <link href="http://yoursite.com/2018/05/07/My-First-Post/"/>
+    <id>http://yoursite.com/2018/05/07/My-First-Post/</id>
+    <published>2018-05-07T10:08:55.000Z</published>
+    <updated>2018-05-07T12:09:42.501Z</updated>
     
-    <content type="html"><![CDATA[<p><style><br>div{text-indent:”24px”;}<br>h1{font:40px/30px;}<br></style></p><h1 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h1><p>p段落标签段落间有空隙<br><br>div块标签段落间无空隙</p><p></p><p>锚点 <br><br>id herf=”#idname”<br></p><br><br><p></p><div><br>    <label>USERNAME:</label><br>    <input><br>    <input type="submit" value="SUBMIT"><br><br></div><h1 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h1><p>层叠样式表cascading style sheets<br></p><p><div style="color:red;font-size:18px">目的：结构和样式分离<br></div><br>解决内联元素代码换行产生的空白：父级fontsize设为0，单独设置子级字体大小<br></p>]]></content>
+    <content type="html"><![CDATA[<hr><p><img src="https://www.picgd.com/images/a8dc82e0dbf73270f629bd816e191bc2.png" alt=""></p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><hr><p>一直很喜欢搞事情，一直就想搭个博客，记录自己学习的点点滴滴，能写点东西，收录一些好博，能为解决相似问题提供方便。</p><blockquote><p>收藏备查</p></blockquote><blockquote><p><a href="https://my.oschina.net/ryaneLee/blog/638440" target="_blank" rel="noopener">小白独立搭建博客–Github Pages和Hexo简明教程</a></p><p><a href="https://zhuanlan.zhihu.com/p/30836436" title="Hexo+Next主题优化" target="_blank" rel="noopener">Hexo+Next主题优化</a><br><a href="http://www.pchou.info/#" title="良心博客" target="_blank" rel="noopener">一步步在GitHub上创建博客主页</a></p><p><a href="https://blog.csdn.net/superjimmy/article/details/51626842" target="_blank" rel="noopener">手把手教你用github pages搭建博客</a></p><p><a href="https://www.jianshu.com/p/05289a4bc8b2" target="_blank" rel="noopener">如何搭建一个独立博客——简明Github Pages与Hexo教程</a></p></blockquote><h1 id="域名常用"><a href="#域名常用" class="headerlink" title="域名常用"></a>域名常用</h1><hr><ul><li><p><a href="https://www.dnspod.cn" title="Dnspod:腾讯域名解析" target="_blank" rel="noopener"> DnsPod</a></p></li><li><p><a href="https://sg.godaddy.com/zh/" title="美国域名服务商" target="_blank" rel="noopener"> GoDaddy</a></p></li></ul><h1 id="MarkDown"><a href="#MarkDown" class="headerlink" title="MarkDown"></a>MarkDown</h1><hr><ul><li><a href="http://sspai.com/25137" target="_blank" rel="noopener">认识与入门 Markdown</a></li></ul><p>5/7/2018 8:01:17 PM </p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;style&gt;&lt;br&gt;div{text-indent:”24px”;}&lt;br&gt;h1{font:40px/30px;}&lt;br&gt;&lt;/style&gt;&lt;/p&gt;
-&lt;h1 id=&quot;HTML&quot;&gt;&lt;a href=&quot;#HTML&quot; class=&quot;headerlink&quot; title=&quot;HTML&quot;&gt;
+        &lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.picgd.com/images/a8dc82e0dbf73270f629bd816e191bc2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink
       
     
     </summary>
@@ -53,29 +54,6 @@
       
         &lt;h1 id=&quot;IDL&quot;&gt;&lt;a href=&quot;#IDL&quot; class=&quot;headerlink&quot; title=&quot;IDL&quot;&gt;&lt;/a&gt;IDL&lt;/h1&gt;&lt;hr&gt;
 &lt;h2 id=&quot;读取文本文档&quot;&gt;&lt;a href=&quot;#读取文本文档&quot; class=&quot;headerlink&quot; title=&quot;读取文本
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>搭博客日记</title>
-    <link href="http://yoursite.com/2018/05/07/My-First-Post/"/>
-    <id>http://yoursite.com/2018/05/07/My-First-Post/</id>
-    <published>2018-05-07T10:08:55.000Z</published>
-    <updated>2018-05-07T12:09:42.501Z</updated>
-    
-    <content type="html"><![CDATA[<hr><p><img src="https://www.picgd.com/images/a8dc82e0dbf73270f629bd816e191bc2.png" alt=""></p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><hr><p>一直很喜欢搞事情，一直就想搭个博客，记录自己学习的点点滴滴，能写点东西，收录一些好博，能为解决相似问题提供方便。</p><blockquote><p>收藏备查</p></blockquote><blockquote><p><a href="https://my.oschina.net/ryaneLee/blog/638440" target="_blank" rel="noopener">小白独立搭建博客–Github Pages和Hexo简明教程</a></p><p><a href="https://zhuanlan.zhihu.com/p/30836436" title="Hexo+Next主题优化" target="_blank" rel="noopener">Hexo+Next主题优化</a><br><a href="http://www.pchou.info/#" title="良心博客" target="_blank" rel="noopener">一步步在GitHub上创建博客主页</a></p><p><a href="https://blog.csdn.net/superjimmy/article/details/51626842" target="_blank" rel="noopener">手把手教你用github pages搭建博客</a></p><p><a href="https://www.jianshu.com/p/05289a4bc8b2" target="_blank" rel="noopener">如何搭建一个独立博客——简明Github Pages与Hexo教程</a></p></blockquote><h1 id="域名常用"><a href="#域名常用" class="headerlink" title="域名常用"></a>域名常用</h1><hr><ul><li><p><a href="https://www.dnspod.cn" title="Dnspod:腾讯域名解析" target="_blank" rel="noopener"> DnsPod</a></p></li><li><p><a href="https://sg.godaddy.com/zh/" title="美国域名服务商" target="_blank" rel="noopener"> GoDaddy</a></p></li></ul><h1 id="MarkDown"><a href="#MarkDown" class="headerlink" title="MarkDown"></a>MarkDown</h1><hr><ul><li><a href="http://sspai.com/25137" target="_blank" rel="noopener">认识与入门 Markdown</a></li></ul><p>5/7/2018 8:01:17 PM </p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;hr&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.picgd.com/images/a8dc82e0dbf73270f629bd816e191bc2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink
       
     
     </summary>
